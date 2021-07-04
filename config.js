@@ -1,9 +1,9 @@
 const CONFIG = {
     introTitle: 'Nhii à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introDesc: `Xin em đừng rủ nỗi nhớ đi xa
+Vì màn đêm xuống bầu trời toàn kí ức hai ta
+Ngày mai nắng qua hé môi cười trò chuyện với mây vương vấn người
+Luyến lưu nhớ thương ai`,
     btnIntro: 'hihi',
     title: 'Game khongg =)))) 😙',
     desc: 'Game ddiiiiiii',
