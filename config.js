@@ -1,6 +1,5 @@
 const CONFIG = {
-    introTitle: 'Nhii à!',
-    introDesc: `Xin em đừng rủ nỗi nhớ đi xa
+    introTitle: 'fghfủ nỗi nhớ đi xa
 Vì màn đêm xuống bầu trời toàn kí ức hai ta
 Ngày mai nắng qua hé môi cười trò chuyện với mây vương vấn người
 Luyến lưu nhớ thương ai`,
